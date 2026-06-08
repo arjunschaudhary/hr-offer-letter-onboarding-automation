@@ -213,7 +213,7 @@ Actions include functions such as:
 
 ### 1. Workflow Diagram
 
-![Workflow Diagram](screenshots/01-workflow-diagram.png.png)
+![Workflow Diagram](screenshots/01-workflow-diagram.png)
 
 ### 2. Intern Master Offer Tracking
 
